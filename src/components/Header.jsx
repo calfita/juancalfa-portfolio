@@ -14,10 +14,11 @@ export default function Header() {
       <section className="about">
         <h2>Sobre mí</h2>
         <p>
-          He trabajado en diversos roles dentro de proyectos de software, tanto
-          en bancos como en entornos ágiles y startups. Experiencia en QA
-          funcional y automatizado, análisis de requerimientos, desarrollo web
-          fullstack y soporte técnico.
+        Trabaje como soporte tencnico de tickets N3 en telefonica.
+        Tuve un periodo de analista en citibank
+        Luego pase a probar software en metodologia cascada.
+        Aprendi scrum, sus ceremonias.
+        Considero que puedo ayudar en el proceso desde cualquier parte.
         </p>
         <p>
           Utilizo herramientas como{" "}
