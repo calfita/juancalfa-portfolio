@@ -18,7 +18,7 @@ export default function Header() {
         Tuve un periodo de analista en citibank
         Luego pase a probar software en metodologia cascada.
         Aprendi scrum, sus ceremonias.
-        Considero que puedo ayudar en el proceso desde cualquier parte.
+        Considero que puedo ayudar en el proceso de creacion/mantenimiento de software desde cualquier arista dentro de un equipo.
         </p>
         <p>
           Utilizo herramientas como{" "}
